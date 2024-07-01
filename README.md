@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @AwaisAhmad211
+- 👀 I’m interested in coding, innovation, and collaboration
+- 🌱 I’m currently learning MERN stack development and AI/ML
+- 💞️ I’m looking to collaborate on open-source projects and innovative ideas
+- 📫 How to reach me: awaisahmad211@gmail.com or LinkedIn
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I once built a chatbot that could solve math problems!
