@@ -2,6 +2,6 @@
 - 👀 I’m interested in coding, innovation, and collaboration
 - 🌱 I’m currently learning MERN stack development and AI/ML
 - 💞️ I’m looking to collaborate on open-source projects and innovative ideas
-- 📫 How to reach me: awaisahmad211@gmail.com or LinkedIn
+- 📫 How to reach me: awaisahmad211@gmail.com or LinkedIn: www.linkedin.com/in/awais-ahmad211
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I once built a chatbot that could solve math problems!
