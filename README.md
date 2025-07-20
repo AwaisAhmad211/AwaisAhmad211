@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AwaisAhmad211
 - 👀 I’m interested in coding, innovation, and collaboration
-- 🌱 I’m currently learning MERN stack development and AI/ML
+- 🌱 I’m currently learning AI/ML
 - 💞️ I’m looking to collaborate on open-source projects and innovative ideas
 - 📫 How to reach me: awaisahmad211@gmail.com or LinkedIn: www.linkedin.com/in/awais-ahmad211
 - 😄 Pronouns: He/Him
