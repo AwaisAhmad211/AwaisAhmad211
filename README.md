@@ -26,6 +26,11 @@ Focused on clean backend architecture, real-world problem solving, and shipping 
 
 <div align="center">
 <img width="88%" src="https://streak-stats.demolab.com?user=awaisahmad211&theme=tokyonight&hide_border=true&border_radius=12&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8"/>
+
+<br/><br/>
+
+<!-- Profile Views Counter Badge -->
+<img src="https://komarev.com/ghvc/?username=awaisahmad211&label=Profile%20Views&color=38bdf8&style=flat-square" alt="awaisahmad211" />
 </div>
 
 ---
