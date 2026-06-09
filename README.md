@@ -15,7 +15,7 @@ Focused on clean backend architecture, real-world problem solving, and shipping 
 ---
 
 ### Tech Stack
- 
+
 <div align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,nodejs,express,mongodb,mysql,postgres,redis,prisma,tailwind,git,github,vercel,netlify,nginx,jest&perline=7" />
 </div>
@@ -29,7 +29,7 @@ Focused on clean backend architecture, real-world problem solving, and shipping 
 
 <br/><br/>
 
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fawaisahmad211&count_bg=%2338BDF8&title_bg=%231E3A8A&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false" alt="Views" />
+![Profile Views](https://komarev.com/ghpvc/?username=awaisahmad211&color=38BDF8&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
