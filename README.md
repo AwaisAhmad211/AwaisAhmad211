@@ -29,7 +29,7 @@ Focused on clean backend architecture, real-world problem solving, and shipping 
 
 <br/><br/>
 
-<img src="https://vigneshsharmax.github.io/identity-counter/badge?id=awaisahmad211&color=38bdf8&style=flat" alt="Views" />
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fawaisahmad211&count_bg=%2338BDF8&title_bg=%231E3A8A&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false" alt="Views" />
 
 </div>
 
