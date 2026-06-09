@@ -29,7 +29,7 @@ Focused on clean backend architecture, real-world problem solving, and shipping 
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/dynamic/json?label=Profile%20Views&query=value&url=https://api.targetnote.com/v1/counter/awaisahmad211&color=38bdf8&style=for-the-badge" alt="Views" />
+<img src="https://vigneshsharmax.github.io/identity-counter/badge?id=awaisahmad211&color=38bdf8&style=flat" alt="Views" />
 
 </div>
 
